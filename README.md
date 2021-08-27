@@ -30,9 +30,9 @@
 <a href="https://www.microsoft.com" target="_blank"> <img src="https://github.com/Altair-POD/Altair-POD/blob/main/svgs/windows.svg" width="40" height="40"> </a>
 </p>
 
-[![Altair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Altair-POD&hide=stars,prs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Altair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Altair-POD&hide=stars,prs&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altair-POD&langs_count=20&theme=dark&layout=compact&hide=Tex,Go,Roff,M4,Dockerfile,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altair-POD&langs_count=20&theme=dark&layout=compact&hide=Tex,Go,Roff,M4,Dockerfile,Batchfile)
 
 
 
