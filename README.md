@@ -1,6 +1,6 @@
 ### May peace be upon you
 
-#### Hi I am Altair, a fundamentalist.
+#### Hii I am Altair, a fundamentalist.
 
 <h3 align="left">Languages:</h3>
 
