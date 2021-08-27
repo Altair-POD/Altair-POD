@@ -16,9 +16,9 @@
 <h3 align="left">Tools:</h3>
 
 <p align="left">
-<a href="https://www.vim.org" target="_blank"> <img src="https://user-images.githubusercontent.com/8083855/30329899-bffb884c-97e4-11e7-8b93-f8e4bed7338a.png" width="40" height="40"> </a>
+<a href="https://www.vim.org" target="_blank"> <img src="https://github.com/Altair-POD/Altair-POD/blob/main/svgs/vim.png" width="40" height="40"> </a>
 <a href="https://www.gnu.org/software/bash/"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" width="40" height="40"/> </a>
- <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/Altair-POD/Altair-POD/blob/main/svgs/visual-studio-code-1.svg" width="40" height="40"> </a>
+ <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/Altair-POD/Altair-POD/blob/main/svgs/vscode.svg" width="40" height="40"> </a>
 </p>
 
 
