@@ -19,7 +19,8 @@
 <p align="left">
 <a href="https://www.vim.org" target="_blank"> <img src="https://github.com/Altair-POD/Altair-POD/blob/main/svgs/vim.png" width="40" height="40"> </a>
 <a href="https://www.gnu.org/software/bash/"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" width="40" height="40"/> </a>
- <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/Altair-POD/Altair-POD/blob/main/svgs/vscode.svg" width="40" height="40"> </a>
+<a href="https://git-scm.com/"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/Altair-POD/Altair-POD/blob/main/svgs/vscode.svg" width="40" height="40"> </a>
 </p>
 
 <h3 align="left">Operating Systems:</h3>
