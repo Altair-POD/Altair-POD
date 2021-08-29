@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/Altair-POD/Altair-POD/blob/main/svgs/AC4.gif">
+   <img src="https://raw.githubusercontent.com/Altair-POD/Altair-POD/main/svgs/AC4.gif">
 </p>
 
 #### Hii I am Altair, a fundamentalist.
@@ -12,7 +12,7 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.latex.org" target="_blank"> <img src="https://github.com/Altair-POD/Altair-POD/blob/main/svgs/latex.svg" width="80" height="40"> </a>
+<a href="https://www.latex.org" target="_blank"> <img src="https://raw.githubusercontent.com/Altair-POD/Altair-POD/main/svgs/latex.svg" width="80" height="40"> </a>
 </p>
   
   
